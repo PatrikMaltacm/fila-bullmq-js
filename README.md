@@ -17,6 +17,6 @@ Express: https://expressjs.com/en/5x/starter/hello-world/
 
 # OBS
 
-O projeto não segue nenhum pattern de arquitetura atualmente, pretendo adicionar as melhores praticar posteriormente
+O projeto não segue nenhum pattern de arquitetura atualmente, pretendo adicionar as melhores praticas posteriormente
 
 
