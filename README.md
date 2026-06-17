@@ -10,6 +10,13 @@ Redis
 Express
 Typescript
 
+Documentações utilizadas
+
+BullMQ: https://docs.bullmq.io/readme-1
+Express: https://expressjs.com/en/5x/starter/hello-world/
+
 # OBS
 
 O projeto não segue nenhum pattern de arquitetura atualmente, pretendo adicionar as melhores praticar posteriormente
+
+
